@@ -9,7 +9,7 @@ practicing control flow stuctures and quickly seeing the results.
 # https://github.com/jiffyclub/ipythonblocks/blob/master/LICENSE.txt
 
 import copy
-import collections
+import collections.abc as collections
 import json
 import numbers
 import os
